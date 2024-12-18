@@ -40,10 +40,38 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
 2. **Weight Update**
    - PhysicalGrab and DistanceGrab of weight cubes with left/right controller grip
    - Users navigate between layers to explore how inputs transform into outputs.
+  
+<div style="display: flex; justify-content: center; align-items: center;">
+
+<div style="text-align: center; margin: 0 10px;">
+<img src="images/distance_grab.png" alt="Image 1" style="width: 45%;">
+<p>DistanceGrab</p>
+</div>
+
+<div style="text-align: center; margin: 0 10px;">
+<img src="images/physical_grab.png" alt="Image 2" style="width: 45%;">
+<p>PhysicalGrab</p>
+</div>
+
+</div>
 
 3. **ReLU Function**
    - Text explanation
    - 3D visualization of the ReLU activation process
+  
+<div style="display: flex; justify-content: center; align-items: center;">
+
+<div style="text-align: center; margin: 0 10px;">
+<img src="relu_screen" alt="Image 1" style="width: 45%;">
+<p>ReLU text explanation</p>
+</div>
+
+<div style="text-align: center; margin: 0 10px;">
+<img src="relu_demo" alt="Image 2" style="width: 45%;">
+<p>ReLU visualization</p>
+</div>
+
+</div>
 
 4. **Quiz Module**
    - Integrated question panels that pause gameplay for interactive learning.
