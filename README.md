@@ -77,10 +77,11 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
 <table>
   <tr>
     <td style="text-align: center; margin: 0 auto;">
-      <img src="images/relu_screen.png" alt="Image 1" style="width: 300px;">
+      <img src="images/trivia_1.png" alt="Image 1" style="width: 300px;">
+      <p>Trivia question</p>
     </td>
     <td style="text-align: center;">
-      <img src="images/relu_demo.png" alt="Image 2" style="width: 300px;">
+      <img src="images/trivia_2" alt="Image 2" style="width: 300px;">
       <p>Trivia question</p>
     </td>
   </tr>
