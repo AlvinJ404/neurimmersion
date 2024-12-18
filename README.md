@@ -62,12 +62,12 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
 <div style="display: flex; justify-content: center; align-items: center;">
 
 <div style="text-align: center; margin: 0 10px;">
-<img src="relu_screen" alt="Image 1" style="width: 45%;">
+<img src="images/relu_screen.png" alt="Image 1" style="width: 45%;">
 <p>ReLU text explanation</p>
 </div>
 
 <div style="text-align: center; margin: 0 10px;">
-<img src="relu_demo" alt="Image 2" style="width: 45%;">
+<img src="images/relu_demo.png" alt="Image 2" style="width: 45%;">
 <p>ReLU visualization</p>
 </div>
 
@@ -75,6 +75,15 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
 
 4. **Quiz Module**
    - Integrated question panels that pause gameplay for interactive learning.
+<div style="display: flex; justify-content: center; align-items: center;">
+
+<div style="text-align: center; margin: 0 10px;">
+<img src="images/trivia_1.png" alt="Image 1" style="width: 45%;">
+
+<div style="text-align: center; margin: 0 10px;">
+<img src="images/trivia_2.png" alt="Image 1" style="width: 45%;">
+<p>Trivia question</p>
+</div>
 
 ## How to Run
 1. Clone the repository:
