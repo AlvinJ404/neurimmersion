@@ -41,17 +41,18 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
    - PhysicalGrab and DistanceGrab of weight cubes with left/right controller grip
    - Users navigate between layers to explore how inputs transform into outputs.
   
-<div style="display: flex; justify-content: center; align-items: center;">
-
-<div style="text-align: center; margin: 0 10px;">
-<img src="images/distance_grab.png" alt="Image 1" style="width: 45%;">
-<p>DistanceGrab</p>
-</div>
-
-<div style="text-align: center; margin: 0 10px;">
-<img src="images/physical_grab.png" alt="Image 2" style="width: 45%;">
-<p>PhysicalGrab</p>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="images/physical_grab.png" alt="Image 1" style="width: 300px;">
+      <p>PhysicalGrab</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="images/distance_grab.png" alt="Image 2" style="width: 300px;">
+      <p>DistanceGrab</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
