@@ -43,7 +43,7 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
   
 <table>
   <tr>
-    <td style="text-align: center;">
+    <td style="text-align: center; margin: 0 auto;">
       <img src="images/physical_grab.png" alt="Image 1" style="width: 300px;">
       <p>PhysicalGrab</p>
     </td>
@@ -54,37 +54,37 @@ NeurImmersion is a VR-based application designed to provide an engaging and inte
   </tr>
 </table>
 
-</div>
-
 3. **ReLU Function**
    - Text explanation
    - 3D visualization of the ReLU activation process
-  
-<div style="display: flex; justify-content: center; align-items: center;">
 
-<div style="text-align: center; margin: 0 10px;">
-<img src="images/relu_screen.png" alt="Image 1" style="width: 45%;">
-<p>ReLU text explanation</p>
-</div>
-
-<div style="text-align: center; margin: 0 10px;">
-<img src="images/relu_demo.png" alt="Image 2" style="width: 45%;">
-<p>ReLU visualization</p>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td style="text-align: center; margin: 0 auto;">
+      <img src="images/relu_screen.png" alt="Image 1" style="width: 300px;">
+      <p>ReLU text explanation</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="images/relu_demo.png" alt="Image 2" style="width: 300px;">
+      <p>ReLU visualization</p>
+    </td>
+  </tr>
+</table>
 
 4. **Quiz Module**
    - Integrated question panels that pause gameplay for interactive learning.
-<div style="display: flex; justify-content: center; align-items: center;">
 
-<div style="text-align: center; margin: 0 10px;">
-<img src="images/trivia_1.png" alt="Image 1" style="width: 45%;">
-
-<div style="text-align: center; margin: 0 10px;">
-<img src="images/trivia_2.png" alt="Image 1" style="width: 45%;">
-<p>Trivia question</p>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center; margin: 0 auto;">
+      <img src="images/relu_screen.png" alt="Image 1" style="width: 300px;">
+    </td>
+    <td style="text-align: center;">
+      <img src="images/relu_demo.png" alt="Image 2" style="width: 300px;">
+      <p>Trivia question</p>
+    </td>
+  </tr>
+</table>
 
 ## How to Run
 1. Clone the repository:
